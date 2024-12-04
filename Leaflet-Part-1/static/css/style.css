@@ -8,3 +8,18 @@ body,
 html {
   height: 100%;
 }
+
+#map-title {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0.25em 0.5em;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 5%);
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 0.5em;
+  box-shadow: 0 0 0.25em black;
+  z-index: 1000;
+  display: none;
+}
