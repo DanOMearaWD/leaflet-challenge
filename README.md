@@ -26,6 +26,27 @@ leaflet-challenge/
 │           └── logic.js           # JavaScript logic for fetching and visualizing earthquake data
 ```
 
+## 📝 Summary of Operations
+
+1. **Fetch Earthquake Data**: 
+   - The application fetches earthquake data in GeoJSON format from the USGS API.
+
+2. **Data Processing**:
+   - The fetched GeoJSON data is parsed to extract relevant information, including the earthquake's magnitude, depth, and location.
+
+3. **Map Initialization**:
+   - A map is initialized using Leaflet and tile layers are added to display the map’s background.
+
+4. **Data Visualization**:
+   - Earthquake data points are plotted on the map as markers. The size of each marker corresponds to the earthquake's magnitude, and its color reflects the depth of the earthquake.
+
+5. **Tooltips**:
+   - When a user clicks on a marker, a tooltip appears, displaying additional information about the earthquake: magnitude, depth, and location.
+
+6. **Legend**:
+   - A color-coded legend is displayed to show the relationship between marker colors and earthquake depth.
+
+
 ## 🛠️ Technologies Used
 
 - **HTML/CSS**: Markup and styling to structure and design the webpage and map layout.
