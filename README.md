@@ -9,7 +9,7 @@ Explore earthquake data from the past week through an interactive map built with
 ## 🌐 GitHub Page
 You can view the deployed app here:
 [**Earthquake App**](https://danomearawd.github.io/leaflet-challenge/)
-
+---
 ![Screenshot](screenshot.png)
 
 ## 🚀 Features
