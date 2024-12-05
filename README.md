@@ -4,6 +4,8 @@ Explore earthquake data from the past week through an interactive map built with
 
 🌐 [**Live Demo**](https://danomearawd.github.io/leaflet-challenge/)
 
+![Screenshot](screenshot.png)
+
 ## 🚀 Features
 
 - **Interactive Map**: Visualizes earthquake data dynamically.
@@ -17,15 +19,14 @@ Explore earthquake data from the past week through an interactive map built with
 
 ```plaintext
 leaflet-challenge/
-├── index.html                     # Entry point for the web app
+├── index.html            # Web App
 ├── Leaflet-Part-1/
 │   └── static/
 │       ├── css/
-│       │   └── style.css          # Custom styles for the map
+│       │   └── style.css   # Custom styles for the map
 │       └── js/
-│           └── logic.js           # JavaScript logic for fetching and visualizing earthquake data
+│           └── logic.js    # JavaScript logic for fetching and visualizing earthquake data
 ```
-
 ## 📝 Summary of Operations
 
 1. **Fetch Earthquake Data**: 
@@ -54,3 +55,8 @@ leaflet-challenge/
 - **Leaflet.js**: A JavaScript library for creating interactive maps, used to visualize the earthquake data.
 - **D3.js**: A JavaScript library for manipulating documents based on data, used for loading and displaying the GeoJSON earthquake data.
 - **GeoJSON**: A format used for encoding geographic data structures, used to represent the earthquake data.
+
+## 🙋‍♂️ Author
+
+**Dan O'Meara**  
+GitHub: [danomearawd](https://github.com/danomearawd)
