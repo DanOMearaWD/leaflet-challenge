@@ -2,7 +2,7 @@
 
 Explore earthquake data from the past week through an interactive map built with [Leaflet.js](https://leafletjs.com/). This project visualizes data from the [USGS Earthquake API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), displaying earthquake locations, magnitudes, and depths dynamically.
 
-[**Live Demo**](https://danomearawd.github.io/leaflet-challenge/)
+🌐 [**Live Demo**](https://danomearawd.github.io/leaflet-challenge/)
 
 ## 🚀 Features
 
@@ -25,12 +25,3 @@ leaflet-challenge/
 │       └── js/
 │           └── logic.js           # JavaScript logic for fetching and visualizing earthquake data
 ```
-
-## 🌍 Data Source
-
-The earthquake data is fetched from the USGS GeoJSON Feed:  
-[https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
-
-
-## 🖼️ Screenshot
-
