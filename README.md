@@ -14,16 +14,16 @@ Explore earthquake data from the past week through an interactive map built with
 - **Legend**: Explains marker colors based on depth levels.
 
 ## 📂 Project Structure
-```plaintext
-leaflet-challenge/
-├── index.html            # Web App
-├── Leaflet-Part-1/
-│   └── static/
-│       ├── css/
-│       │   └── style.css   # Custom styles for the map
-│       └── js/
+
+leaflet-challenge/  
+├── index.html            # Web App  
+├── Leaflet-Part-1/  
+│   └── static/  
+│       ├── css/  
+│       │   └── style.css   # Custom styles for the map  
+│       └── js/  
 │           └── logic.js    # JavaScript logic for fetching and visualizing earthquake data
-```
+
 ## 📝 Summary of Operations
 
 1. **Fetch Earthquake Data**: 
