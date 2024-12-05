@@ -16,7 +16,7 @@ Explore earthquake data from the past week through an interactive map built with
 ## 📂 Project Structure
 
 leaflet-challenge/  
-├── index.html                     # Entry point for the web app  
+├── index.html                     # Web App  
 ├── Leaflet-Part-1/  
 │   └── static/  
 │       ├── css/  
