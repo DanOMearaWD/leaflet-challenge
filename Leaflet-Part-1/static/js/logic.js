@@ -5,17 +5,18 @@ function getColor(depth) {
     if (depth < 10) {
         return '#00FF00'; // Green
     } else if (depth < 21) {
-        return '#33CC00'; // Light Green
+        return '#80FF00'; // Lime Green
     } else if (depth < 31) {
-        return '#66AA00'; // Yellow-Green
+        return '#FFFF00'; // Yellow
     } else if (depth < 41) {
-        return '#998800'; // Yellow
+        return '#FFBF00'; // Yellow-Orange
     } else if (depth < 51) {
-        return '#CC4400'; // Orange
+        return '#FF8000'; // Orange-Red
     } else {
         return '#FF0000'; // Red
     }
 }
+
 
 // Fetch earthquake data
 d3.json(url).then(function (data) {

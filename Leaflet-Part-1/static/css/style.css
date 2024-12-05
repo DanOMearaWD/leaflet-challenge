@@ -52,24 +52,30 @@ html {
 
 #map-legend li:nth-of-type(1) span.box {
   background: #00FF00;
+  /* Green */
 }
 
 #map-legend li:nth-of-type(2) span.box {
-  background: #33CC00;
+  background: #80FF00;
+  /* Lime Green */
 }
 
 #map-legend li:nth-of-type(3) span.box {
-  background: #66AA00;
+  background: #FFFF00;
+  /* Yellow */
 }
 
 #map-legend li:nth-of-type(4) span.box {
-  background: #998800;
+  background: #FFBF00;
+  /* Yellow-Orange */
 }
 
 #map-legend li:nth-of-type(5) span.box {
-  background: #CC4400;
+  background: #FF8000;
+  /* Orange-Red */
 }
 
 #map-legend li:nth-of-type(6) span.box {
   background: #FF0000;
+  /* Red */
 }
