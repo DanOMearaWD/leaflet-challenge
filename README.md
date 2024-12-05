@@ -54,15 +54,6 @@ leaflet-challenge/
 - **D3.js**: A JavaScript library for manipulating documents based on data, used for loading and displaying the GeoJSON earthquake data.
 - **GeoJSON**: A format used for encoding geographic data structures, used to represent the earthquake data.
 
-## 🧪 Testing
-
-- Ensure that JavaScript is enabled in your browser for full functionality.
-- The map updates dynamically with real-time data, so an internet connection is required to fetch the latest earthquake data from the USGS API.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙋‍♂️ Author
 
 **Dan O'Meara**  
