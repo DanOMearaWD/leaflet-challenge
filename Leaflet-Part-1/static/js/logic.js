@@ -4,13 +4,13 @@ let url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.ge
 function getColor(depth) {
     if (depth < 10) {
         return '#00FF00'; // Green
-    } else if (depth < 21) {
+    } else if (depth < 20) {
         return '#80FF00'; // Lime Green
-    } else if (depth < 31) {
+    } else if (depth < 30) {
         return '#FFFF00'; // Yellow
-    } else if (depth < 41) {
+    } else if (depth < 40) {
         return '#FFBF00'; // Yellow-Orange
-    } else if (depth < 51) {
+    } else if (depth < 50) {
         return '#FF8000'; // Orange-Red
     } else {
         return '#FF0000'; // Red
