@@ -22,4 +22,54 @@ html {
   box-shadow: 0 0 0.25em black;
   z-index: 1000;
   display: none;
+  pointer-events: none;
+}
+
+#map-legend {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  padding: 0.5em 1em;
+  background: rgba(255, 255, 255, 0.75);
+  list-style: none;
+  border-radius: 1em;
+  box-shadow: 0 0 0.75em rgba(0, 0, 0, 0.5);
+  margin-right: 0.5em;
+  margin-bottom: 1.5em;
+  pointer-events: none;
+}
+
+#map-legend span.box {
+  background: rgba(0, 0, 0, 0.125);
+  width: 1em;
+  height: 1em;
+  float: left;
+  margin-right: 0.5em;
+}
+
+/*Style each box*/
+
+#map-legend li:nth-of-type(1) span.box {
+  background: #00FF00;
+}
+
+#map-legend li:nth-of-type(2) span.box {
+  background: #33CC00;
+}
+
+#map-legend li:nth-of-type(3) span.box {
+  background: #66AA00;
+}
+
+#map-legend li:nth-of-type(4) span.box {
+  background: #998800;
+}
+
+#map-legend li:nth-of-type(5) span.box {
+  background: #CC4400;
+}
+
+#map-legend li:nth-of-type(6) span.box {
+  background: #FF0000;
 }
