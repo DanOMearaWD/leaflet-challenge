@@ -64,3 +64,22 @@ leaflet-challenge/
 
 **Dan O'Meara**  
 GitHub: [danomearawd](https://github.com/danomearawd)
+
+## 💻 Installation
+
+To get started with this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/danomearawd/leaflet-challenge.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd leaflet-challenge
+   ```
+3. Open `index.html` in your browser to view the map and interact with the earthquake data.
+
+### Prerequisites:
+- Ensure you have a modern browser with JavaScript enabled.
+- An internet connection is required to fetch real-time earthquake data.
+
