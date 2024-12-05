@@ -15,14 +15,14 @@ Explore earthquake data from the past week through an interactive map built with
 
 ## 📂 Project Structure
 
-leaflet-challenge/  
-├── index.html                     # Entry point for the web app  
-├── Leaflet-Part-1/  
-│   └── static/  
-│       ├── css/  
-│       │   └── style.css          # Custom styles for the map  
-│       └── js/  
-│           └── logic.js           # JavaScript logic for fetching and visualizing earthquake data
+leaflet-challenge/
+├── index.html            # Web App
+├── Leaflet-Part-1/
+│   └── static/
+│       ├── css/
+│       │   └── style.css   # Custom styles for the map
+│       └── js/
+│           └── logic.js    # JavaScript logic for fetching and visualizing earthquake data
 
 ## 📝 Summary of Operations
 
