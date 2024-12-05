@@ -1,6 +1,8 @@
 # Earthquake Data Visualization with Leaflet 🌍
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Forks](https://img.shields.io/github/forks/danomearawd/leaflet-challenge)
+![Stars](https://img.shields.io/github/stars/danomearawd/leaflet-challenge)
 
 
 Explore earthquake data from the past week through an interactive map built with [Leaflet.js](https://leafletjs.com/). This project visualizes data from the [USGS Earthquake API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), displaying earthquake locations, magnitudes, and depths dynamically.
