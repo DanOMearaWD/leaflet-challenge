@@ -53,3 +53,30 @@ leaflet-challenge/
 - **Leaflet.js**: A JavaScript library for creating interactive maps, used to visualize the earthquake data.
 - **D3.js**: A JavaScript library for manipulating documents based on data, used for loading and displaying the GeoJSON earthquake data.
 - **GeoJSON**: A format used for encoding geographic data structures, used to represent the earthquake data.
+
+## 🧪 Testing
+
+- Ensure that JavaScript is enabled in your browser for full functionality.
+- The map updates dynamically with real-time data, so an internet connection is required to fetch the latest earthquake data from the USGS API.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes and push them to your fork.
+4. Open a pull request to the main branch of the original repository.
+
+---
+
+## 🙋‍♂️ Author
+
+**Dan O'Meara**  
+GitHub: [danomearawd](https://github.com/danomearawd)
