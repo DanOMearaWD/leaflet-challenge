@@ -4,6 +4,8 @@ Explore earthquake data from the past week through an interactive map built with
 
 🌐 [**Live Demo**](https://danomearawd.github.io/leaflet-challenge/)
 
+![Screenshot](screenshot.png)
+
 ## 🚀 Features
 
 - **Interactive Map**: Visualizes earthquake data dynamically.
