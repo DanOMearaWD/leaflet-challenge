@@ -65,11 +65,6 @@ leaflet-challenge/
 **Dan O'Meara**  
 GitHub: [danomearawd](https://github.com/danomearawd)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 ## 💻 Installation
 
 To get started with this project locally:
