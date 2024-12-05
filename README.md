@@ -24,7 +24,7 @@ leaflet-challenge/
 │       │   └── style.css          # Custom styles for the map
 │       └── js/
 │           └── logic.js           # JavaScript logic for fetching and visualizing earthquake data
-
+```
 
 ## 🌍 Data Source
 
