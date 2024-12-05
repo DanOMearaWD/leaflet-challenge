@@ -1,8 +1,16 @@
 # Earthquake Data Visualization with Leaflet 🌍
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Stars](https://img.shields.io/github/stars/danomearawd/leaflet-challenge)
+
 
 Explore earthquake data from the past week through an interactive map built with [Leaflet.js](https://leafletjs.com/). This project visualizes data from the [USGS Earthquake API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), displaying earthquake locations, magnitudes, and depths dynamically.
 
-🌐 [**Live Demo**](https://danomearawd.github.io/leaflet-challenge/)
+## 🌐 GitHub Page
+[**Earthquake App**](https://danomearawd.github.io/leaflet-challenge/) <br />
+You can view the deployed app above:
+
+
 
 ![Screenshot](screenshot.png)
 
@@ -60,3 +68,22 @@ leaflet-challenge/
 
 **Dan O'Meara**  
 GitHub: [danomearawd](https://github.com/danomearawd)
+
+## 💻 Installation
+
+To get started with this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/danomearawd/leaflet-challenge.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd leaflet-challenge
+   ```
+3. Open `index.html` in your browser to view the map and interact with the earthquake data.
+
+### Prerequisites:
+- Ensure you have a modern browser with JavaScript enabled.
+- An internet connection is required to fetch real-time earthquake data.
+
