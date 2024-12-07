@@ -32,22 +32,22 @@ leaflet-challenge/
 ## 📝 Summary of Operations
 
 ### Fetch Earthquake Data:
-The application fetches earthquake data in GeoJSON format from the USGS API.
+- The application fetches earthquake data in GeoJSON format from the USGS API.
 
 ### Data Processing:
-The fetched GeoJSON data is parsed to extract relevant information, including the earthquake's magnitude, depth, and location.
+- The fetched GeoJSON data is parsed to extract relevant information, including the earthquake's magnitude, depth, and location.
 
 ### Map Initialization:
-A map is initialized using Leaflet, and tile layers are added to display the map’s background.
+- A map is initialized using Leaflet, and tile layers are added to display the map’s background.
 
 ### Data Visualization:
-Earthquake data points are plotted on the map as markers. The size of each marker corresponds to the earthquake's magnitude, and its color reflects the depth of the earthquake.
+- Earthquake data points are plotted on the map as markers. The size of each marker corresponds to the earthquake's magnitude, and its color reflects the depth of the earthquake.
 
 ### Tooltips:
-When a user clicks on a marker, a tooltip appears, displaying additional information about the earthquake: magnitude, depth, and location.
+- When a user clicks on a marker, a tooltip appears, displaying additional information about the earthquake: magnitude, depth, and location.
 
 ### Legend:
-A color-coded legend is displayed to show the relationship between marker colors and earthquake depth.
+- A color-coded legend is displayed to show the relationship between marker colors and earthquake depth.
 
 ## 🛠️ Technologies Used
 
